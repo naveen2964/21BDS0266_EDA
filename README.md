@@ -1,8 +1,8 @@
 # Exploratory Data Analysis (EDA) for Diabetes Dataset
 
-## Project Overview
+## Overview
 
-This repository contains my work for the Exploratory Data Analysis (EDA) project as part of the Digital Assessment I. The aim of this project is to analyze the Diabetes dataset and gain insights through various analytical techniques.
+This repository contains my work for the Exploratory Data Analysis (EDA) as part of the Digital Assessment I. The aim of this project is to analyze the Diabetes dataset and gain insights through various analytical techniques.
 
 ## Dataset Information
 
